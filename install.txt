@@ -1,0 +1,9 @@
+cp %{SOURCE0} %{buildroot}/usr/share/apache-tomcat/
+cp %{SOURCE1} %{buildroot}/usr/share/apache-tomcat/
+cp %{SOURCE2} %{buildroot}/usr/share/apache-tomcat/
+cp %{SOURCE3} %{buildroot}/usr/share/apache-tomcat/
+cp %{SOURCE4} %{buildroot}/usr/share/apache-tomcat/
+cp %{SOURCE5} %{buildroot}/usr/share/apache-tomcat/
+cp %{SOURCE6} %{buildroot}/usr/share/apache-tomcat/
+cp %{SOURCE7} %{buildroot}/usr/share/apache-tomcat/
+cp %{SOURCE8} %{buildroot}/usr/share/apache-tomcat/
