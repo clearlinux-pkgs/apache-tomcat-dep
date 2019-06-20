@@ -1,6 +1,6 @@
 Name     : apache-tomcat-dep
 Version  : 9.0.20
-Release  : 1
+Release  : 2
 URL      : https://repo.maven.apache.org
 Summary  : No detailed summary available
 Group    : Development/Tools
